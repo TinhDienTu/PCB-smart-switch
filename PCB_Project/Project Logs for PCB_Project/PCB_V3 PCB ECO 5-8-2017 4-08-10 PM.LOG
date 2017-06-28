@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetBA1_2 Pin=JP1-2
+Removed Pin From Net: NetName=NetF2_2 Pin=JP2-1
+Removed Pin From Net: NetName=NetF3_2 Pin=JP2-2
+Removed Member From Class: ClassName=so do mach Member=JP1
+Removed Member From Class: ClassName=so do mach Member=JP2
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD1(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD3(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF2_2 Pin=HD1-1
+Added Pin To Net: NetName=NetF3_2 Pin=HD1-2
+Added Pin To Net: NetName=NetBA1_2 Pin=HD3-2
+Added Pin To Net: NetName=NetHD3_1 Pin=HD3-1
+Added Pin To Net: NetName=NetHD3_1 Pin=U1-1
+Added Pin To Net: NetName=NetHD3_1 Pin=U1-2
+Added Net: Name=NetHD3_1
+Added Member To Class: ClassName=so do mach Member=Component HD1 Header 3
+Added Member To Class: ClassName=so do mach Member=Component HD3 Header 2

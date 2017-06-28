@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetRF1_3 Pin=u2-10
+Removed Pin From Net: NetName=NetRF1_4 Pin=u2-11
+Added Pin To Net: NetName=NetRF1_4 Pin=u2-10
+Added Pin To Net: NetName=NetRF1_3 Pin=u2-11
+Added Member To Class: ClassName=so do mach Member=Component HD1 Header 3

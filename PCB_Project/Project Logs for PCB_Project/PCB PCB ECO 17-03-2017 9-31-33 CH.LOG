@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=3V3 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Change Component DesignItemId : Designator=C1 Old DesignItemId=CapSMD New DesignItemId=CM
+Change Component DesignItemId : Designator=C2 Old DesignItemId=CapSMD New DesignItemId=CM
+Change Component DesignItemId : Designator=IC1 Old DesignItemId=LM1117 New DesignItemId=Component_1
+Change Component Footprint: Designator=C1 Old Footprint=C0805 New Footprint=CM-1206
+Change Component Footprint: Designator=C2 Old Footprint=C0805 New Footprint=CM-1206
+Change Component Footprint: Designator=IC1 Old Footprint=SOT223-4N New Footprint=SOT89-150P409X160-3N
+Change Component Comment : Designator=C1 Old Comment=Capacitor Ceramic New Comment=105
+Change Component Comment : Designator=C2 Old Comment=Capacitor Ceramic New Comment=105
+Change Component Comment : Designator=IC1 Old Comment=LM1117 New Comment=CJA1117-3v3
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetQ1_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-3
+Added Pin To Net: NetName=NetC1_2 Pin=J1-1
+Added Net: Name=NetC1_2

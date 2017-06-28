@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=NetC16_2 Pin=J1-3
+Change Component Footprint: Designator=J2 Old Footprint=JP3 New Footprint=Con3
+Change Component Footprint: Designator=J3 Old Footprint=JP3 New Footprint=Con3
+Change Component Footprint: Designator=J4 Old Footprint=JP3 New Footprint=Con3
+Change Component Comment : Designator=J2 Old Comment=Jumper 3 New Comment=con3
+Change Component Comment : Designator=J3 Old Comment=Jumper 3 New Comment=con3
+Change Component Comment : Designator=J4 Old Comment=Jumper 3 New Comment=Jumper
+Added Component: Designator=J3(Con3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=NetC16_2 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=u2-25
+Added Net: Name=NetJ3_2
+Added Member To Class: ClassName=so do mach Member=Component J3 con3
+Added Member To Class: ClassName=so do mach Member=Component J3 Debug
+Added Room: Name=so do mach

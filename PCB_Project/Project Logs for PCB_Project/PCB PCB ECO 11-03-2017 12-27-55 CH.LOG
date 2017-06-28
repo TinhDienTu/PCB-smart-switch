@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=*2 NewDesignator=*3
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP2
+Added Component: Designator=*2(DIOM5127X24N)
+Added Component: Designator=JP1(CON2)
+Added Pin To Net: NetName=3V3 Pin=*2-1
+Added Pin To Net: NetName=3V3 Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Member To Class: ClassName=so do mach Member=Component *3 Component_1
+Added Member To Class: ClassName=so do mach Member=Component JP2 Debug

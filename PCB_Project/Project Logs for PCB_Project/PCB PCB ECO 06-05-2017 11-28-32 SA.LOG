@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetJP1_1 Pin=U1-1
+Removed Pin From Net: NetName=NetJP1_1 Pin=U1-2
+Removed Pin From Net: NetName=NetF1_1 Pin=U1-3
+Removed Pin From Net: NetName=NetF1_1 Pin=U1-4
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_1 Pin=U1-1
+Added Pin To Net: NetName=NetF1_1 Pin=U1-2
+Added Pin To Net: NetName=NetJP1_1 Pin=U1-3
+Added Pin To Net: NetName=NetJP1_1 Pin=U1-4
+Added Member To Class: ClassName=so do mach Member=Component C7 103
+Added Member To Class: ClassName=so do mach Member=Component C8 103
+Added Member To Class: ClassName=so do mach Member=Component C9 103
+Added Member To Class: ClassName=so do mach Member=Component JP3 
+Added Member To Class: ClassName=so do mach Member=Component JP4 
+Added Member To Class: ClassName=so do mach Member=Component R5 1k
+Added Member To Class: ClassName=so do mach Member=Component R8 1k
+Added Member To Class: ClassName=so do mach Member=Component U1 ACS712

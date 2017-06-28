@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3V3 Pin=C21-2
+Removed Pin From Net: NetName=3V3 Pin=IC1-2
+Added Component: Designator=R1(RM-1206)
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=C21-2
+Added Pin To Net: NetName=VCC Pin=IC1-2
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=so do mach Member=Component R1 1K

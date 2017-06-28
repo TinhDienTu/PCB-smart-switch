@@ -1,0 +1,21 @@
+Change Component DesignItemId : Designator=F1 Old DesignItemId=Fuse New DesignItemId=Component_1
+Change Component DesignItemId : Designator=F2 Old DesignItemId=Fuse New DesignItemId=Component_1
+Change Component DesignItemId : Designator=F3 Old DesignItemId=Fuse New DesignItemId=Component_1
+Change Component DesignItemId : Designator=F4 Old DesignItemId=Fuse New DesignItemId=Component_1
+Change Component DesignItemId : Designator=F5 Old DesignItemId=Fuse New DesignItemId=Component_1
+Change Component Comment : Designator=F1 Old Comment=F1A New Comment=Fuse 2A
+Change Component Comment : Designator=F2 Old Comment=F1A New Comment=Fuse 2A
+Change Component Comment : Designator=F3 Old Comment=F1A New Comment=Fuse 2A
+Change Component Comment : Designator=F4 Old Comment=F1A New Comment=Fuse 2A
+Change Component Comment : Designator=F5 Old Comment=F1A New Comment=Fuse 2A
+Change Component Description : Designator=F1 Old Description=Fuse New Description=
+Change Component Description : Designator=F2 Old Description=Fuse New Description=
+Change Component Description : Designator=F3 Old Description=Fuse New Description=
+Change Component Description : Designator=F4 Old Description=Fuse New Description=
+Change Component Description : Designator=F5 Old Description=Fuse New Description=
+Change Component Library : Designator=F1 Old Library=syhaunguyen.IntLib New Library=Fuse 2A.SchLib
+Change Component Library : Designator=F2 Old Library=syhaunguyen.IntLib New Library=Fuse 2A.SchLib
+Change Component Library : Designator=F3 Old Library=syhaunguyen.IntLib New Library=Fuse 2A.SchLib
+Change Component Library : Designator=F4 Old Library=syhaunguyen.IntLib New Library=Fuse 2A.SchLib
+Change Component Library : Designator=F5 Old Library=syhaunguyen.IntLib New Library=Fuse 2A.SchLib
+Added Room: Name=so do mach

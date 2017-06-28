@@ -1,0 +1,12 @@
+Added Component: Designator=C2(CM-1206)
+Added Component: Designator=C3(CM-1206)
+Added Component: Designator=C4(CM-1206)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Member To Class: ClassName=so do mach Member=Component C2 105
+Added Member To Class: ClassName=so do mach Member=Component C3 105
+Added Member To Class: ClassName=so do mach Member=Component C4 105

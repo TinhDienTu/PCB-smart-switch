@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=CSN Pin=RF2-6
+Added Pin To Net: NetName=SCK Pin=RF2-6

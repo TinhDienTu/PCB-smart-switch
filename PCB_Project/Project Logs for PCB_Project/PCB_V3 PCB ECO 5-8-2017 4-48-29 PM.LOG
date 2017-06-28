@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetF2_2 Pin=HD1-1
+Removed Pin From Net: NetName=NetF4_2 Pin=HD1-1
+Removed Pin From Net: NetName=NetF3_2 Pin=HD1-2
+Removed Pin From Net: NetName=NetF6_2 Pin=HD1-3
+Added Pin To Net: NetName=NetF3_2 Pin=HD1-1
+Added Pin To Net: NetName=NetF6_2 Pin=HD1-1
+Added Pin To Net: NetName=NetF2_2 Pin=HD1-2
+Added Pin To Net: NetName=NetF4_2 Pin=HD1-3
+Added Member To Class: ClassName=so do mach Member=Component HD1 Header 3

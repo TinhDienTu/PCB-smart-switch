@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=J?-1
+Removed Pin From Net: NetName=TEST Pin=J?-2
+Removed Pin From Net: NetName=RST Pin=J?-3
+Removed Member From Class: ClassName=so do mach Member=J?
+Change Component Comment : Designator=U3 Old Comment=Component_1 New Comment=SHT10
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Added Component: Designator=JP2(CON3)
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=TEST Pin=JP2-2
+Added Pin To Net: NetName=RST Pin=JP2-3
+Added Member To Class: ClassName=so do mach Member=Component JP2 Debug
+Added Room: Name=so do mach

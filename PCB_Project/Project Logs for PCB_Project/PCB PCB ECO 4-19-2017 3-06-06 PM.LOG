@@ -1,0 +1,27 @@
+Added Component: Designator=u1(TSOP65P640X120-28N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC81_2 Pin=u1-1
+Added Pin To Net: NetName=LED RED Pin=u1-2
+Added Pin To Net: NetName=OUT_1 Pin=u1-3
+Added Pin To Net: NetName=OUT_2 Pin=u1-4
+Added Pin To Net: NetName=OUT_3 Pin=u1-5
+Added Pin To Net: NetName=out 4 Pin=u1-6
+Added Pin To Net: NetName=SCK Pin=u1-7
+Added Pin To Net: NetName=RELAY2 Pin=u1-8
+Added Pin To Net: NetName=RELAY1 Pin=u1-9
+Added Pin To Net: NetName=GD00 Pin=u1-10
+Added Pin To Net: NetName=CSN Pin=u1-11
+Added Pin To Net: NetName=GD02 Pin=u1-12
+Added Pin To Net: NetName=RELAY3 Pin=u1-13
+Added Pin To Net: NetName=RELAY4 Pin=u1-14
+Added Pin To Net: NetName=RELAY5 Pin=u1-15
+Added Pin To Net: NetName=LED GREEN Pin=u1-18
+Added Pin To Net: NetName=MISO Pin=u1-22
+Added Pin To Net: NetName=MOSI Pin=u1-23
+Added Pin To Net: NetName=RST Pin=u1-24
+Added Pin To Net: NetName=TEST Pin=u1-25
+Added Pin To Net: NetName=NetC10_1 Pin=u1-26
+Added Pin To Net: NetName=NetC9_1 Pin=u1-27
+Added Pin To Net: NetName=GND Pin=u1-28
+Added Member To Class: ClassName=so do mach Member=Component RF2 CC1101
+Added Member To Class: ClassName=so do mach Member=Component u1 msp430g2553

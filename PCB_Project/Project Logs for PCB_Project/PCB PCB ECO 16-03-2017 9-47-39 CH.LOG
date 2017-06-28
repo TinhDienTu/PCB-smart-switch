@@ -1,0 +1,5 @@
+Added Component: Designator=D1(DIOMELF3615N)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=3V3 Pin=D1-2
+Added Member To Class: ClassName=so do mach Member=Component D1 1N4148
+Added Room: Name=so do mach

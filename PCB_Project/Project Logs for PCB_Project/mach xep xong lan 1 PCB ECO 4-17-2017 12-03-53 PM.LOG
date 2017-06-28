@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GD00 Pin=RF1-2
+Removed Pin From Net: NetName=SCK Pin=RF1-3
+Removed Pin From Net: NetName=MISO Pin=RF1-4
+Removed Pin From Net: NetName=NetC7_2 Pin=RF1-5
+Removed Pin From Net: NetName=CSN Pin=RF1-6
+Removed Pin From Net: NetName=MOSI Pin=RF1-7
+Change Component DesignItemId : Designator=RF1 Old DesignItemId=Header 4X2A New DesignItemId=CC1101
+Change Component Description : Designator=RF1 Old Description=Header, 4-Pin, Dual row New Description=
+Change Component Library : Designator=RF1 Old Library=NBBLib 14-03-2012.IntLib New Library=CC1101 Module.SchLib
+Added Pin To Net: NetName=NetC7_2 Pin=RF1-2
+Added Pin To Net: NetName=GD00 Pin=RF1-3
+Added Pin To Net: NetName=CSN Pin=RF1-4
+Added Pin To Net: NetName=SCK Pin=RF1-5
+Added Pin To Net: NetName=MOSI Pin=RF1-6
+Added Pin To Net: NetName=MISO Pin=RF1-7
+Added Room: Name=so do mach

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=TEST Pin=J1-2
+Removed Pin From Net: NetName=RST Pin=J1-3
+Change Component DesignItemId : Designator=J1 Old DesignItemId=JP3 New DesignItemId=USB_Micro_TypeB
+Change Component Comment : Designator=J1 Old Comment=Debug New Comment=USB Micro Type B
+Change Component Designator: OldDesignator=USB2 NewDesignator=USB1
+Change Component Description : Designator=J1 Old Description=Jumper 3 New Description=Connector SMD USB Micro Type B middle mount
+Change Component Library : Designator=J1 Old Library=PART.IntLib New Library=PBL - Connectors.SCHLIB
+Added Component: Designator=J2(JP3)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=TEST Pin=J1-2
+Added Pin To Net: NetName=RST Pin=J1-3
+Added Member To Class: ClassName=so do mach Member=Component J2 Debug

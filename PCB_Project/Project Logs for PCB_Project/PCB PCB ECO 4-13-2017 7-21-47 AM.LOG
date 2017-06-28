@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3 Pin=C81-2
+Added Pin To Net: NetName=NetC81_2 Pin=C81-2
+Added Pin To Net: NetName=NetC81_2 Pin=L1-2
+Added Pin To Net: NetName=NetC81_2 Pin=U1-1
+Added Net: Name=NetC81_2
+Added Member To Class: ClassName=so do mach Member=Component C7 Capacitor Ceramic

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=3V3 Pin=U1-1
+Removed Pin From Net: NetName=3V3 Pin=U2-4
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=Reset NewDesignator=S1
+Added Component: Designator=Q1(SOTFL95P237X100-3N)
+Added Component: Designator=R1(SM-RES-0805)
+Added Component: Designator=R4(SM-RES-0805)
+Added Component: Designator=R7(SM-RES-0805)
+Added Component: Designator=R8(SM-RES-0805)
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R8-1
+Added Pin To Net: NetName=NetQ1_G Pin=R7-1
+Added Pin To Net: NetName=NetQ1_G Pin=R8-2
+Added Net: Name=NetQ1_G
+Added Pin To Net: NetName=NetQ1_S Pin=R4-2
+Added Net: Name=NetQ1_S
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U2-4
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=SHT10 Pin=R7-2
+Added Net: Name=SHT10
+Added Pin To Net: NetName=SHT11 Pin=U1-17
+Added Net: Name=SHT11
+Added Member To Class: ClassName=so do mach Member=Component Q1 IRLML6402
+Added Member To Class: ClassName=so do mach Member=Component R5 100
+Added Member To Class: ClassName=so do mach Member=Component R6 10k
+Added Member To Class: ClassName=so do mach Member=Component R7 10k
+Added Member To Class: ClassName=so do mach Member=Component R8 470k
+Added Room: Name=so do mach

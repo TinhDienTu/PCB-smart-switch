@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetQ2_1 Pin=R7-1
+Removed Pin From Net: NetName=SHT10 Pin=R7-2
+Removed Member From Class: ClassName=so do mach Member=R7
+Added Component: Designator=R77(SM-RES-0805)
+Added Pin To Net: NetName=NetQ2_1 Pin=R77-1
+Added Pin To Net: NetName=SHT10 Pin=R77-2
+Added Member To Class: ClassName=so do mach Member=Component R77 10k

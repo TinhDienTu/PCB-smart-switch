@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+5 Pin=RF2-1
+Added Pin To Net: NetName=+5 Pin=RN?-1
+Added Pin To Net: NetName=+5 Pin=U2-20
+Added Member To Class: ClassName=so do mach Member=Component RF2 CC1101

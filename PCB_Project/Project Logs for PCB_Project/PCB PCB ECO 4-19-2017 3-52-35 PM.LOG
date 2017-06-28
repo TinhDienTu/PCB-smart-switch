@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=X1-1
+Removed Pin From Net: NetName=NetC10_1 Pin=X1-2
+Removed Member From Class: ClassName=so do mach Member=X1
+Added Component: Designator=X?(32768hz)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC10_1 Pin=X?-1
+Added Pin To Net: NetName=NetC9_1 Pin=X?-2
+Added Member To Class: ClassName=so do mach Member=Component RF2 CC1101
+Added Member To Class: ClassName=so do mach Member=Component SSR1 OMRON G3MB
+Added Member To Class: ClassName=so do mach Member=Component X? 32768Hz

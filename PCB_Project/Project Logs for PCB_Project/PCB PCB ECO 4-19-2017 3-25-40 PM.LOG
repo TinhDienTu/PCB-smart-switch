@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+5 Pin=SSR1-3
+Removed Member From Class: ClassName=so do mach Member=SSR1
+Added Member To Class: ClassName=so do mach Member=Component RF2 CC1101

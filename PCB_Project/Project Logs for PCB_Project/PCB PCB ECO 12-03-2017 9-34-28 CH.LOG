@@ -1,0 +1,7 @@
+Added Component: Designator=USB1(USB_B_MINI_SMD)
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=IC1-3
+Added Pin To Net: NetName=NetC1_1 Pin=USB1-1
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=so do mach Member=Component USB1 USB_M

@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=so do mach Member=*1
+Added Component: Designator=SSR1(OMRON g3mb)
+Added Component: Designator=SSR2(OMRON g3mb)
+Added Component: Designator=SSR3(OMRON g3mb)
+Added Component: Designator=SSR4(OMRON g3mb)
+Added Component: Designator=SSR5(OMRON g3mb)
+Added Pin To Net: NetName=NetF1_1 Pin=SSR1-3
+Added Pin To Net: NetName=NetF1_1 Pin=SSR1-3
+Added Pin To Net: NetName=NetJP1_2 Pin=SSR1-4
+Added Pin To Net: NetName=NetJP1_2 Pin=SSR1-4
+Added Pin To Net: NetName=NetF2_1 Pin=SSR2-3
+Added Pin To Net: NetName=NetF2_1 Pin=SSR2-3
+Added Pin To Net: NetName=NetJP2_2 Pin=SSR2-4
+Added Pin To Net: NetName=NetJP2_2 Pin=SSR2-4
+Added Pin To Net: NetName=NetF3_1 Pin=SSR3-3
+Added Pin To Net: NetName=NetF3_1 Pin=SSR3-3
+Added Pin To Net: NetName=NetJP3_2 Pin=SSR3-4
+Added Pin To Net: NetName=NetJP3_2 Pin=SSR3-4
+Added Pin To Net: NetName=NetF4_1 Pin=SSR4-3
+Added Pin To Net: NetName=NetF4_1 Pin=SSR4-3
+Added Pin To Net: NetName=NetJP4_2 Pin=SSR4-4
+Added Pin To Net: NetName=NetJP4_2 Pin=SSR4-4
+Added Pin To Net: NetName=NetF5_1 Pin=SSR5-3
+Added Pin To Net: NetName=NetF5_1 Pin=SSR5-3
+Added Pin To Net: NetName=NetJP5_1 Pin=SSR5-4
+Added Pin To Net: NetName=NetJP5_1 Pin=SSR5-4
+Added Member To Class: ClassName=so do mach Member=Component SSR1 OMRON G3MB
+Added Member To Class: ClassName=so do mach Member=Component SSR2 OMRON G3MB
+Added Member To Class: ClassName=so do mach Member=Component SSR3 OMRON G3MB
+Added Member To Class: ClassName=so do mach Member=Component SSR4 OMRON G3MB
+Added Member To Class: ClassName=so do mach Member=Component SSR5 OMRON G3MB
+Added Room: Name=so do mach

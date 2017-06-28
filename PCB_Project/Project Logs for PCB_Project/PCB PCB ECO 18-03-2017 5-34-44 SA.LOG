@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RST Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Added Component: Designator=S2(BUTTON)
+Added Pin To Net: NetName=RST Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Member To Class: ClassName=so do mach Member=Component S2 RST
+Added Room: Name=so do mach

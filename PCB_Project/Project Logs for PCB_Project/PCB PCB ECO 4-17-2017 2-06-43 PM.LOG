@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=X1 Old DesignItemId=XT32k New DesignItemId=32768Hz
+Change Component Footprint: Designator=X1 Old Footprint=XT32k New Footprint=32768hz
+Change Component Comment : Designator=X1 Old Comment=32,768 Khz New Comment=32768Hz

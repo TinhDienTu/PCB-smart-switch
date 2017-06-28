@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3 Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Change Component Comment : Designator=D1 Old Comment=1N4007 New Comment=1N4148
+Change Component Library : Designator=D1 Old Library=4007_SMD.SchLib New Library=1n4148 smd.SchLib
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=3V3 Pin=D1-2

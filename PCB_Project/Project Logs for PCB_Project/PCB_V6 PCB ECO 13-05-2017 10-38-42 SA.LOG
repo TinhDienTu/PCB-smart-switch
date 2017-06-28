@@ -1,0 +1,8 @@
+Change Component Comment : Designator=R16 Old Comment=10k New Comment=1k
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R17(SM-RES-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=NetJ2_3 Pin=R17-2
+Added Member To Class: ClassName=so do mach Member=Component R17 1k

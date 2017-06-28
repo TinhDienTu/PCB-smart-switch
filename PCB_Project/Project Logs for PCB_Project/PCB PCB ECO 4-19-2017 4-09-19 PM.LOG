@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=RELAY2 Pin=u1-8
+Removed Pin From Net: NetName=RELAY1 Pin=u1-9
+Removed Pin From Net: NetName=RELAY3 Pin=u1-13
+Removed Pin From Net: NetName=RELAY4 Pin=u1-14
+Removed Pin From Net: NetName=RELAY5 Pin=u1-15
+Removed Pin From Net: NetName=LED GREEN Pin=u1-18
+Added Pin To Net: NetName=LED GREEN Pin=u1-13
+Added Pin To Net: NetName=RELAY1 Pin=u1-15
+Added Pin To Net: NetName=RELAY2 Pin=u1-16
+Added Pin To Net: NetName=RELAY3 Pin=u1-17
+Added Pin To Net: NetName=RELAY4 Pin=u1-18
+Added Pin To Net: NetName=RELAY5 Pin=u1-19
+Added Pin To Net: NetName=Netu1_5 Pin=u1-5
+Added Pin To Net: NetName=Netu1_5 Pin=U2-15
+Added Net: Name=Netu1_5
+Added Pin To Net: NetName=Netu1_6 Pin=u1-6
+Added Pin To Net: NetName=Netu1_6 Pin=U2-14
+Added Net: Name=Netu1_6
+Added Pin To Net: NetName=Netu1_8 Pin=u1-8
+Added Pin To Net: NetName=Netu1_8 Pin=U2-13
+Added Net: Name=Netu1_8
+Added Pin To Net: NetName=Netu1_9 Pin=u1-9
+Added Pin To Net: NetName=Netu1_9 Pin=U2-12
+Added Net: Name=Netu1_9
+Added Member To Class: ClassName=so do mach Member=Component RF2 CC1101

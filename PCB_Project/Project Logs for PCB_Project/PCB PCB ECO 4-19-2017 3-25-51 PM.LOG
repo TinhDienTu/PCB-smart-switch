@@ -1,0 +1,14 @@
+Added Component: Designator=SSR1(OMRON g3mb)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=SSR1-3
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=SSR1-2
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=SSR1-1
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=SSR1-4
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=so do mach Member=Component RF2 CC1101
+Added Member To Class: ClassName=so do mach Member=Component SSR1 OMRON G3MB

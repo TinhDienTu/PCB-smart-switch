@@ -1,0 +1,61 @@
+Removed Member From Class: ClassName=so do mach Member=F2
+Removed Member From Class: ClassName=so do mach Member=F3
+Removed Member From Class: ClassName=so do mach Member=F4
+Removed Member From Class: ClassName=so do mach Member=F5
+Removed Member From Class: ClassName=so do mach Member=F6
+Removed Member From Class: ClassName=so do mach Member=JP3
+Removed Member From Class: ClassName=so do mach Member=JP5
+Change Component Comment : Designator=C6 Old Comment=* New Comment=220uF
+Change Component Comment : Designator=SW1 Old Comment=* New Comment=RST
+Change Component Comment : Designator=J1 Old Comment=Jumper 3 New Comment=DEBUG
+Added Component: Designator=F?(Fuse 2A - duplicate)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F?(Fuse 2A - duplicate)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F?(Fuse 2A - duplicate)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F?(Fuse 2A - duplicate)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F?(Fuse 2A - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Added Component: Designator=HD?(HED3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUT_1 Pin=J3-3
+Added Pin To Net: NetName=OUT_1 Pin=R13-2
+Added Pin To Net: NetName=NetF1_1 Pin=SSR1-2
+Added Pin To Net: NetName=NetF1_1 Pin=SSR2-2
+Added Pin To Net: NetName=NetF1_1 Pin=SSR3-2
+Added Pin To Net: NetName=NetF1_1 Pin=SSR4-2
+Added Pin To Net: NetName=NetF1_1 Pin=SSR5-2
+Added Pin To Net: NetName=OUT_1 Pin=u1-4
+Change Net Name : Old Net Name=CSN New Net Name=NetRF1_4
+Change Net Name : Old Net Name=GD00 New Net Name=NetRF1_3
+Change Net Name : Old Net Name=GD02 New Net Name=NetRF1_8
+Change Net Name : Old Net Name=LED GREEN New Net Name=NetLED2_1
+Change Net Name : Old Net Name=LED RED New Net Name=NetLED3_1
+Change Net Name : Old Net Name=MISO New Net Name=NetRF1_7
+Change Net Name : Old Net Name=MOSI New Net Name=NetRF1_6
+Change Net Name : Old Net Name=OUT_1 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=RELAY1 New Net Name=NetR4_2
+Change Net Name : Old Net Name=RELAY2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=RELAY3 New Net Name=NetR8_2
+Change Net Name : Old Net Name=RELAY4 New Net Name=NetR9_2
+Change Net Name : Old Net Name=RELAY5 New Net Name=NetR11_2
+Change Net Name : Old Net Name=RST New Net Name=NetC13_2
+Change Net Name : Old Net Name=SCK New Net Name=NetRF1_5
+Change Net Name : Old Net Name=TEST New Net Name=NetJ1_2
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=SSR5-1
+Added Net: Name=NetF?_1
+Added Pin To Net: NetName=NetF?_2 Pin=F?-2
+Added Pin To Net: NetName=NetF?_2 Pin=HD?-3
+Added Net: Name=NetF?_2
+Added Member To Class: ClassName=so do mach Member=Component F? *
+Added Member To Class: ClassName=so do mach Member=Component F? *
+Added Member To Class: ClassName=so do mach Member=Component F? *
+Added Member To Class: ClassName=so do mach Member=Component F? *
+Added Member To Class: ClassName=so do mach Member=Component F? *
+Added Member To Class: ClassName=so do mach Member=Component HD? Header 3
+Added Room: Name=so do mach

@@ -1,0 +1,7 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=USB_Micro_TypeB New DesignItemId=JP3
+Change Component Comment : Designator=J1 Old Comment=USB Micro Type B New Comment=Debug
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Description : Designator=J2 Old Description=Connector SMD USB Micro Type B middle mount New Description=Jumper 3
+Change Component Library : Designator=J2 Old Library=PBL - Connectors.SCHLIB New Library=PART.IntLib
+Added Member To Class: ClassName=so do mach Member=Component J2 Debug
+Added Member To Class: ClassName=so do mach Member=Component USB1 USB_M

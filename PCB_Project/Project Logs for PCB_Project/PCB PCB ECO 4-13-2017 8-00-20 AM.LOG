@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+5 Pin=TP2-TP1
+Removed Pin From Net: NetName=GND Pin=TP4-TP1
+Removed Member From Class: ClassName=so do mach Member=TP1
+Removed Member From Class: ClassName=so do mach Member=TP2
+Removed Member From Class: ClassName=so do mach Member=TP3
+Removed Member From Class: ClassName=so do mach Member=TP4
+Added Component: Designator=BA1(bien ap 5V-700ma)
+Added Pin To Net: NetName=+5 Pin=BA1-3
+Added Pin To Net: NetName=GND Pin=BA1-4
+Added Pin To Net: NetName=GND Pin=BA1-4
+Added Pin To Net: NetName=NetBA1_1 Pin=BA1-1
+Added Pin To Net: NetName=NetBA1_1 Pin=JP6-1
+Added Net: Name=NetBA1_1
+Added Pin To Net: NetName=NetBA1_2 Pin=JP6-2
+Added Net: Name=NetBA1_2
+Added Member To Class: ClassName=so do mach Member=Component BA1 5v-700mA
+Added Room: Name=so do mach

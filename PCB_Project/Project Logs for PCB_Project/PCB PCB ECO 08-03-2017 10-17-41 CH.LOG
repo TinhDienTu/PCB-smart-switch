@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RELAY1 Pin=HD4-1
+Removed Pin From Net: NetName=P1.7 Pin=HD4-2
+Change Component DesignItemId : Designator=HD4 Old DesignItemId=Hed2 New DesignItemId=Con2
+Change Component Footprint: Designator=HD4 Old Footprint=HED2 New Footprint=CON2
+Change Component Comment : Designator=HD4 Old Comment=BAT New Comment=HD4
+Added Pin To Net: NetName=P1.7 Pin=HD4-1
+Added Pin To Net: NetName=RELAY1 Pin=HD4-2

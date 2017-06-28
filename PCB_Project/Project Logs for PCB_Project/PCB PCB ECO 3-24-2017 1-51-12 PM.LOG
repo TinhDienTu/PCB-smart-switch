@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Member From Class: ClassName=so do mach Member=J1
+Change Component Designator: OldDesignator=R1 NewDesignator=L1
+Change Component Designator: OldDesignator=R4 NewDesignator=L2
+Added Component: Designator=USB1(PQFN50P900X900X900_HS-21N)
+Added Pin To Net: NetName=NetC1_2 Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-5
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetL2_2
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetL1_2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetL2_1
+Added Member To Class: ClassName=so do mach Member=Component USB1 Micro USB
+Added Room: Name=so do mach

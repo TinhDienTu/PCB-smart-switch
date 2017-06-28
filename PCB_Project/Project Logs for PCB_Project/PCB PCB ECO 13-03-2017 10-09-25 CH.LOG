@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=USB1-1
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Member From Class: ClassName=so do mach Member=USB1
+Added Component: Designator=J9(USB/SM0.8-4H5)
+Added Pin To Net: NetName=NetC1_1 Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-5
+Added Member To Class: ClassName=so do mach Member=Component J9 USB Micro Type B

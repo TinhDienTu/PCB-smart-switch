@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-1
+Removed Pin From Net: NetName=LED RED Pin=U1-2
+Removed Pin From Net: NetName=SCK_SHT Pin=U1-3
+Removed Pin From Net: NetName=DATA Pin=U1-4
+Removed Pin From Net: NetName=CSN Pin=U1-6
+Removed Pin From Net: NetName=SCK Pin=U1-7
+Removed Pin From Net: NetName=GD00 Pin=U1-10
+Removed Pin From Net: NetName=OUT PIR Pin=U1-11
+Removed Pin From Net: NetName=GD02 Pin=U1-12
+Removed Pin From Net: NetName=SHT10 Pin=U1-17
+Removed Pin From Net: NetName=LED GREEN Pin=U1-18
+Removed Pin From Net: NetName=MISO Pin=U1-22
+Removed Pin From Net: NetName=MOSI Pin=U1-23
+Removed Pin From Net: NetName=RST Pin=U1-24
+Removed Pin From Net: NetName=TEST Pin=U1-25
+Removed Pin From Net: NetName=GND Pin=U1-28
+Removed Member From Class: ClassName=so do mach Member=U1
+Added Component: Designator=U11(TSOP65P640X120-28N)
+Added Pin To Net: NetName=NetR1_2 Pin=U11-1
+Added Pin To Net: NetName=LED RED Pin=U11-2
+Added Pin To Net: NetName=SCK_SHT Pin=U11-3
+Added Pin To Net: NetName=DATA Pin=U11-4
+Added Pin To Net: NetName=CSN Pin=U11-6
+Added Pin To Net: NetName=SCK Pin=U11-7
+Added Pin To Net: NetName=GD00 Pin=U11-10
+Added Pin To Net: NetName=OUT PIR Pin=U11-11
+Added Pin To Net: NetName=GD02 Pin=U11-12
+Added Pin To Net: NetName=SHT10 Pin=U11-17
+Added Pin To Net: NetName=LED GREEN Pin=U11-18
+Added Pin To Net: NetName=MISO Pin=U11-22
+Added Pin To Net: NetName=MOSI Pin=U11-23
+Added Pin To Net: NetName=RST Pin=U11-24
+Added Pin To Net: NetName=TEST Pin=U11-25
+Added Pin To Net: NetName=GND Pin=U11-28
+Added Member To Class: ClassName=so do mach Member=Component U11 MSP430G2553_28P

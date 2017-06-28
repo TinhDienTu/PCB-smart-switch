@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RELAY1 Pin=u1-15
+Removed Pin From Net: NetName=RELAY2 Pin=u1-16
+Removed Pin From Net: NetName=RELAY4 Pin=u1-18
+Removed Pin From Net: NetName=RELAY5 Pin=u1-19
+Added Pin To Net: NetName=RELAY5 Pin=u1-15
+Added Pin To Net: NetName=RELAY4 Pin=u1-16
+Added Pin To Net: NetName=RELAY2 Pin=u1-18
+Added Pin To Net: NetName=RELAY1 Pin=u1-19
+Added Member To Class: ClassName=so do mach Member=Component RF2 CC1101

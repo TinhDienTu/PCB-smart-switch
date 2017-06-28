@@ -1,0 +1,19 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~C:\Altium\SimpliciTi1\PCB_Project\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Schematic Document [so do mach.SchDoc]|ReportField=TotalQuantity~26|ReportField=ReportTime~9:26:34 AM|ReportField=ReportDate~4/12/2017|ReportField=ReportDateTime~4/12/2017 9:26:34 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~so do mach.SchDoc|ReportField=DataSourceFullPath~C:\Altium\SimpliciTi1\PCB_Project\so do mach.SchDoc
+105|Cap SMD|C1, C2|CM-1206|CM|2
+Capacitor Ceramic|Capacitor|C3, C4, C5, C6|C0805|CapSMD|4
+1N4148||D1|DIOMELF3615N|Component_1|1
+CJA1117-3v3||IC1|SOT89-150P409X160-3N|Component_1|1
+Debug|Jumper 3|J2|JP3|JP3|1
+JP2|Header, 2-Pin|JP1|HDR1X2|Header 2|1
+10uH|Resistor 1/4W|L1, L2|SM-RES-0805|R1/4W|2
+LED3|LED SMD 0805|LED1, LED2|LED0805|LED0805|2
+IRLML6402||Q2|SOTFL95P237X100-3N|Component_1|1
+47k|Resistor 1/4W|R2|SM-RES-0805|R1/4W|1
+100|Resistor 1/4W|R3, R5|SM-RES-0805|R1/4W|2
+10k|Resistor 1/4W|R6, R77|SM-RES-0805|R1/4W|2
+470k|Resistor 1/4W|R8|SM-RES-0805|R1/4W|1
+CC1101|Header, 4-Pin, Dual row|RF1|HDR2X4_CEN|Header 4X2A|1
+RST||S3|BUTTON|Component_1|1
+SHT10||U2|SOIC127P660X265-8N|Component_1|1
+MSP430G2553_28P||U22|SOP65P640X265-28N|Component_1|1
+Micro USB||USB1|PQFN50P900X900X900_HS-21N|Component_1|1

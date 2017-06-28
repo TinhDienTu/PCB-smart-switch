@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetF5_2 Pin=JP5-2
+Added Pin To Net: NetName=NetF5_2 Pin=JP5-1
+Added Pin To Net: NetName=NetJP5_2 Pin=JP5-2
+Added Pin To Net: NetName=NetJP5_2 Pin=SSR5-1
+Added Net: Name=NetJP5_2

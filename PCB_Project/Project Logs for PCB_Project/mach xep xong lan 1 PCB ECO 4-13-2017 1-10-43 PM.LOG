@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetBA1_2 Pin=JP6-1
+Added Component: Designator=F6(Fuse 2A - duplicate)
+Added Pin To Net: NetName=NetBA1_2 Pin=F6-2
+Added Pin To Net: NetName=NetF6_1 Pin=F6-1
+Added Pin To Net: NetName=NetF6_1 Pin=JP6-1
+Added Net: Name=NetF6_1
+Added Member To Class: ClassName=so do mach Member=Component F6 Fuse 0.5A
+Added Room: Name=so do mach

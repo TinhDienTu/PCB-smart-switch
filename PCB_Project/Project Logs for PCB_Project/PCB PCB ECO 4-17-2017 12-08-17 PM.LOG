@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=RF1-1
+Removed Pin From Net: NetName=NetC7_2 Pin=RF1-2
+Removed Pin From Net: NetName=GD00 Pin=RF1-3
+Removed Pin From Net: NetName=CSN Pin=RF1-4
+Removed Pin From Net: NetName=SCK Pin=RF1-5
+Removed Pin From Net: NetName=MOSI Pin=RF1-6
+Removed Pin From Net: NetName=MISO Pin=RF1-7
+Removed Pin From Net: NetName=GD02 Pin=RF1-8
+Removed Member From Class: ClassName=so do mach Member=RF1
+Added Component: Designator=RF2(CC1101 - duplicate)
+Added Pin To Net: NetName=GND Pin=RF2-1
+Added Pin To Net: NetName=NetC7_2 Pin=RF2-2
+Added Pin To Net: NetName=GD00 Pin=RF2-3
+Added Pin To Net: NetName=CSN Pin=RF2-4
+Added Pin To Net: NetName=SCK Pin=RF2-5
+Added Pin To Net: NetName=MOSI Pin=RF2-6
+Added Pin To Net: NetName=MISO Pin=RF2-7
+Added Pin To Net: NetName=GD02 Pin=RF2-8
+Added Member To Class: ClassName=so do mach Member=Component RF2 CC1101

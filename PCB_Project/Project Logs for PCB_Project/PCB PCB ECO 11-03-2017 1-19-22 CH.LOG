@@ -1,0 +1,4 @@
+Change Component Comment : Designator=J9 Old Comment=Jumper 3 New Comment=Debug
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=TEST Pin=J9-2
+Added Pin To Net: NetName=RST Pin=J9-3

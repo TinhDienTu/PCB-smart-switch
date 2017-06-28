@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=J9 NewDesignator=J1
+Change Component Designator: OldDesignator=USB1 NewDesignator=USB2
+Added Component: Designator=USB1(USB-A-MALE-SMD)
+Added Member To Class: ClassName=so do mach Member=Component USB2 USB_M
+Added Room: Name=so do mach

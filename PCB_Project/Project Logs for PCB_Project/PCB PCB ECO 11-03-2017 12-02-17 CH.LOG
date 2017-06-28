@@ -1,0 +1,109 @@
+Added Component: Designator=*1(USB-B-Mini)
+Added Component: Designator=*2(SOIC127P660X265-8N)
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=C3(C0805)
+Added Component: Designator=C4(C0805)
+Added Component: Designator=C5(C0805)
+Added Component: Designator=C6(C0805)
+Added Component: Designator=C7(C0805)
+Added Component: Designator=IC1(SOT223-4N)
+Added Component: Designator=JP1(CON3)
+Added Component: Designator=JP2(CON3)
+Added Component: Designator=LED1(LED0805)
+Added Component: Designator=LED2(LED0805)
+Added Component: Designator=R1(SM-RES-0805)
+Added Component: Designator=R2(SM-RES-0805)
+Added Component: Designator=R3(SM-RES-0805)
+Added Component: Designator=R4(SM-RES-0805)
+Added Component: Designator=RF1(HDR2X4_CEN)
+Added Component: Designator=S1(SW-SMD)
+Added Component: Designator=U1(TSOP65P640X120-28N)
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=GND Pin=*1-5
+Added Pin To Net: NetName=GND Pin=*2-1
+Added Pin To Net: NetName=DATA Pin=*2-2
+Added Pin To Net: NetName=SCK_SHT Pin=*2-3
+Added Pin To Net: NetName=3V3 Pin=*2-4
+Added Pin To Net: NetName=Net*1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=RST Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=3V3 Pin=IC1-2
+Added Pin To Net: NetName=Net*1_1 Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=TEST Pin=JP1-2
+Added Pin To Net: NetName=RST Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=OUT DHT Pin=JP2-2
+Added Pin To Net: NetName=3V3 Pin=JP2-3
+Added Pin To Net: NetName=LED GREEN Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=LED RED Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=RST Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=DATA Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=RF1-1
+Added Pin To Net: NetName=GD00 Pin=RF1-2
+Added Pin To Net: NetName=SCK Pin=RF1-3
+Added Pin To Net: NetName=MISO Pin=RF1-4
+Added Pin To Net: NetName=3V3 Pin=RF1-5
+Added Pin To Net: NetName=CSN Pin=RF1-6
+Added Pin To Net: NetName=MOSI Pin=RF1-7
+Added Pin To Net: NetName=GD02 Pin=RF1-8
+Added Pin To Net: NetName=RST Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=LED RED Pin=U1-2
+Added Pin To Net: NetName=SCK_SHT Pin=U1-3
+Added Pin To Net: NetName=DATA Pin=U1-4
+Added Pin To Net: NetName=CSN Pin=U1-6
+Added Pin To Net: NetName=SCK Pin=U1-7
+Added Pin To Net: NetName=GD00 Pin=U1-10
+Added Pin To Net: NetName=OUT PIR Pin=U1-11
+Added Pin To Net: NetName=GD02 Pin=U1-12
+Added Pin To Net: NetName=OUT DHT Pin=U1-17
+Added Pin To Net: NetName=LED GREEN Pin=U1-18
+Added Pin To Net: NetName=MISO Pin=U1-22
+Added Pin To Net: NetName=MOSI Pin=U1-23
+Added Pin To Net: NetName=RST Pin=U1-24
+Added Pin To Net: NetName=TEST Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-28
+Added Member To Class: ClassName=so do mach Member=Component *1 USB-M
+Added Member To Class: ClassName=so do mach Member=Component *2 Component_1
+Added Member To Class: ClassName=so do mach Member=Component C1 Capacitor Ceramic
+Added Member To Class: ClassName=so do mach Member=Component C2 Capacitor Ceramic
+Added Member To Class: ClassName=so do mach Member=Component C3 Capacitor Ceramic
+Added Member To Class: ClassName=so do mach Member=Component C4 Capacitor Ceramic
+Added Member To Class: ClassName=so do mach Member=Component C5 Capacitor Ceramic
+Added Member To Class: ClassName=so do mach Member=Component C6 Capacitor Ceramic
+Added Member To Class: ClassName=so do mach Member=Component C7 Capacitor Ceramic
+Added Member To Class: ClassName=so do mach Member=Component IC1 LM1117
+Added Member To Class: ClassName=so do mach Member=Component JP1 Debug
+Added Member To Class: ClassName=so do mach Member=Component JP2 DHT
+Added Member To Class: ClassName=so do mach Member=Component LED1 LED3
+Added Member To Class: ClassName=so do mach Member=Component LED2 LED3
+Added Member To Class: ClassName=so do mach Member=Component R1 1k
+Added Member To Class: ClassName=so do mach Member=Component R2 100
+Added Member To Class: ClassName=so do mach Member=Component R3 100
+Added Member To Class: ClassName=so do mach Member=Component R4 10k
+Added Member To Class: ClassName=so do mach Member=Component RF1 CC1101
+Added Member To Class: ClassName=so do mach Member=Component S1 SW-SMD
+Added Member To Class: ClassName=so do mach Member=Component U1 MSP430G2553_28P
+Added Room: Name=so do mach

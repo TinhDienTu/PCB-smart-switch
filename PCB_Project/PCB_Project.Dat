@@ -1,0 +1,29 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~E:\1\Altium\SimpliciTi\PCB_Project\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~64|ReportField=ReportTime~8:19:17 SA|ReportField=ReportDate~09/03/2017|ReportField=ReportDateTime~09/03/2017 8:19:17 SA|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~09/03/2017|ReportField=CurrentTime~7:36:53 SA|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\1\Altium\SimpliciTi\PCB_Project\so do mach.SchDoc|ReportField=DocumentName~so do mach.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~09/03/2017|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~E:\1\Altium\SimpliciTi\PCB_Project\PCB_Project.PrjPcb
+SS34||*2|DIOM5127X24N|Component_1|1
+1000uF/16V|Cap 1000uF/16V - 220uF/50V|C1, C2, C3, C4, C22|CP1.5/3.4|CP4|5
+104|Cap np 104 => 105pF|C5, C6, C7, C8, C9, C11, C12, C13, C14|CN2|CN2|9
+103|Cap np 682pF => 104pF|C10|CN1.5|CN1.5|1
+1N4007|Diode 1A|D1, D2, D3|D1A|D1A|3
+F1A|Fuse|F1, F2|Fuse|Fuse|2
+Header 2|Header 2 (Green)|HD1, HD2, HD5|HED2|Hed2|3
+BAT|Header 2 (Green)|HD3|HED2|Hed2|1
+HD4|Connector 2|HD4|CON2|Con2|1
+LM1117|Available in 1.8V, 2.5V, 2.85V, 3.3V, 5V, and  Adjustable Versions|IC1|SOT223-4N|LM1117|1
+LM2576|LM2576|IC2|QTO-263|LM2576|1
+Jac DC|Jac DC input|JDC1, JDC2|DC-IN|DCIN|2
+JP2|Connector 2|JP1, JP2|CON2|Con2|2
+Debug|Connector 3|JP3|CON3|Con3|1
+RFID|Connector 8|JP4|CON8|Con8|1
+PIR|Connector 3|JP5|CON3|Con3|1
+DHT|Connector 3|JP6|CON3|Con3|1
+150mH|Inductor|L1|L01|L1|1
+LED|LED Single colour Green and Red|LED1, LED2, LED4|LED-5-RED|LED|3
+LED|LED Single colour Green and Red|LED3|LED-5-Green|LED|1
+C1815|NPN 600mW, ECB|Q1, Q2|QTO-92|C1815|2
+150|Resistor 1/4W|R1, R3, R4, R5, R6, R7, R8, R10, R11, R12, R13|R1/4W|R1/4W|11
+470|Resistor 1/4W|R2, R9|R1/4W|R1/4W|2
+OMRON||Relay1, Relay2|PCBComponent_1 - duplicate1|Component_1|2
+CC1101|Header, 4-Pin, Dual row|RF1, RF2|HDR2X4_CEN|Header 4X2A|2
+RST|Switch button 2 pin|SW1|SW2|SW2|1
+PC817|Single Opto|U1, U3|DIP4/W0.3|PC817|2
+MSP430G2553||U2|DIP20|Component_1|1

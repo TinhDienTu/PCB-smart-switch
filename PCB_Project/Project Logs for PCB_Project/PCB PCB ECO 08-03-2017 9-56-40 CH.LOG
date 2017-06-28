@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=so do mach Member=*1
+Added Component: Designator=L1(L01)
+Added Pin To Net: NetName=REF Pin=L1-2
+Added Pin To Net: NetName=Net*2_1 Pin=*2-1
+Added Pin To Net: NetName=Net*2_1 Pin=IC2-2
+Added Pin To Net: NetName=Net*2_1 Pin=L1-1
+Added Net: Name=Net*2_1
+Added Member To Class: ClassName=so do mach Member=Component L1 150mH

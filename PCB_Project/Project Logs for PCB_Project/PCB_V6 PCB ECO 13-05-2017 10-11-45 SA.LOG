@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP3
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(CON3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-2
+Change Net Name : Old Net Name=NetJ3_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=NetJP1_2 New Net Name=NetJP2_2
+Change Net Name : Old Net Name=NetJP2_1 New Net Name=NetJP3_1
+Change Net Name : Old Net Name=NetJP2_2 New Net Name=NetJP3_2
+Change Net Name : Old Net Name=NetJP2_3 New Net Name=NetJP3_3
+Change Net Name : Old Net Name=NetJP2_4 New Net Name=NetJP3_4
+Added Pin To Net: NetName=NetJP1_3 Pin=JP1-3
+Added Pin To Net: NetName=NetJP1_3 Pin=u2-12
+Added Net: Name=NetJP1_3
+Added Member To Class: ClassName=so do mach Member=Component JP3 JP6

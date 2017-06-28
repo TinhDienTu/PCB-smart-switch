@@ -1,0 +1,43 @@
+Change Component Designator: OldDesignator=F? NewDesignator=F2
+Change Component Designator: OldDesignator=F? NewDesignator=F3
+Change Component Designator: OldDesignator=F? NewDesignator=F4
+Change Component Designator: OldDesignator=F? NewDesignator=F5
+Change Component Designator: OldDesignator=F? NewDesignator=F6
+Change Component Designator: OldDesignator=HD? NewDesignator=HD1
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP7 NewDesignator=JP5
+Change Net Name : Old Net Name=NetF?_1 New Net Name=NetF6_1
+Change Net Name : Old Net Name=NetF?_2 New Net Name=NetF2_2
+Change Net Name : Old Net Name=NetJP7_1 New Net Name=NetJP5_1
+Change Net Name : Old Net Name=NetJP7_2 New Net Name=NetJP5_2
+Change Net Name : Old Net Name=NetJP7_3 New Net Name=NetJP5_3
+Change Net Name : Old Net Name=NetJP7_4 New Net Name=NetJP5_4
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=SSR1-1
+Added Net: Name=NetF2_1
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=NetF3_1 Pin=SSR2-1
+Added Net: Name=NetF3_1
+Added Pin To Net: NetName=NetF3_2 Pin=F3-2
+Added Pin To Net: NetName=NetF3_2 Pin=JP2-2
+Added Net: Name=NetF3_2
+Added Pin To Net: NetName=NetF4_1 Pin=F4-1
+Added Pin To Net: NetName=NetF4_1 Pin=SSR3-1
+Added Net: Name=NetF4_1
+Added Pin To Net: NetName=NetF4_2 Pin=F4-2
+Added Pin To Net: NetName=NetF4_2 Pin=HD1-1
+Added Net: Name=NetF4_2
+Added Pin To Net: NetName=NetF5_1 Pin=F5-1
+Added Pin To Net: NetName=NetF5_1 Pin=SSR4-1
+Added Net: Name=NetF5_1
+Added Pin To Net: NetName=NetF5_2 Pin=F5-2
+Added Pin To Net: NetName=NetF5_2 Pin=HD1-2
+Added Net: Name=NetF5_2
+Added Pin To Net: NetName=NetF6_2 Pin=F6-2
+Added Pin To Net: NetName=NetF6_2 Pin=HD1-3
+Added Net: Name=NetF6_2
+Added Member To Class: ClassName=so do mach Member=Component F2 *
+Added Member To Class: ClassName=so do mach Member=Component F3 *
+Added Member To Class: ClassName=so do mach Member=Component F4 *
+Added Member To Class: ClassName=so do mach Member=Component F5 *
